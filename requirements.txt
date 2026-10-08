@@ -1,0 +1,7 @@
+streamlit==1.65.0
+tensorflow-cpu==2.21.0
+keras==3.15.1
+scikit-learn==1.9.1
+pandas==3.0.6
+numpy==2.5.3
+joblib==1.6.0
